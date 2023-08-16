@@ -1,0 +1,4 @@
+#Wed Aug 16 13:41:46 ICT 2023
+base.0=/Users/edriw-ty/Downloads/ThucHanhBuoi4/Flutter Fully Responsive Design/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
